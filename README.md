@@ -1,7 +1,7 @@
 # Automatic-Potato-Separation-Device
 A method to separate potatoes from a mixture of soil and potato harvested from the field. 
 
-#Abstract 
+# Abstract 
 Several methods have been developed in an effort
 to improve harvest efficiency and optimize soil separation in
 automated potato separation operations. Unfortunately, during
